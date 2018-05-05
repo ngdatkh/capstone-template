@@ -17,24 +17,32 @@
   
   <main>
     <section>
-      <h1>Heading 1</h1>
+      <h1>About</h1>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure blanditiis dolorem nam, totam assumenda quidem optio ducimus voluptates velit. Autem dolorem repudiandae doloremque vel dolore cupiditate! Molestias minima quam vero magnam eligendi, numquam aperiam natus corrupti architecto impedit aliquid nemo excepturi quidem, vitae id sapiente placeat molestiae enim non dolore!</p>
     </section>
     <section>
-      <h2>Heading n</h2>
+      <h2>Projects</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit sequi, recusandae temporibus tempora molestiae architecto expedita dolorem, similique asperiores dicta enim mollitia ut maxime voluptatibus quae rem animi totam? Eos.</p>
-      <figure>
-        <!--<span> tag will be deleteted later-->
-        <span>Picture here</span>
-      </figure>
-      <figure>
-        <!--<span> tag will be deleteted later-->
-        <span>Picture here</span>
-      </figure>
+      <article>
+        <!--Portfolio asset 1 will be put here-->
+        <!--Some text will be added here-->
+        <figure>
+          <!--<span> tag will be deleteted later-->
+          <span>Picture for asset 1</span>
+        </figure>        
+      </article>
+      <article>
+        <!--Portfolio asset 1 will be put here-->
+        <!--Some text will be added here-->
+        <figure>
+          <!--<span> tag will be deleteted later-->
+          <span>Picture for asset n</span>
+        </figure>
+      </article>
     </section>
     
     <section>
-      <h2>Heading n</h2>
+      <h2>Contact</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit sequi, recusandae temporibus tempora molestiae architecto expedita dolorem, similique asperiores dicta enim mollitia ut maxime voluptatibus quae rem animi totam? Eos.</p>
       <form action="">
         <!--<span> tag will be deleteted later-->

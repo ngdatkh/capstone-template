@@ -254,15 +254,15 @@ footer section:first-child a i {
     max-width: 60em;
     margin: 2em auto;
   }
-  main figure {
+  main article {
     display: inline-block;
     width: 47.5%;
     float: left;
   }
-  main figure:first-of-type {
+  main article:first-of-type {
     margin-right: 2.5%;
   }
-  main figure:nth-of-type(2) {
+  main article:nth-of-type(2) {
     margin-left: 2.5%;
   }
   main section:after {
